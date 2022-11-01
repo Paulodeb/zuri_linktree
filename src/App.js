@@ -27,7 +27,7 @@ function App() {
         >
           Twitter Link
         </a>
-        {/* <a id='slack' href='https://twitter.com/Paul02721445?t=02PVSrHWZkPpBNSarp5I7w&s=09'>paulode Link</a> */}
+        <a id='slack' href=''>paulodeb </a>
 
         <a id="btn_zuri" href="https://training.zuri.team/">
           Zuri Team
