@@ -1,6 +1,4 @@
 
-
-
 .profile_container {
   margin: 1px;
   display: flex;
@@ -41,11 +39,7 @@ span{
   height: 160px;
   width: 160px;
   border-radius: 50%;
-  border: 5px solid #272133;
   margin-top: 10px;
-  
-  box-shadow: 0 10px 50px rgb(39, 11, 22);
-
 }
 
 .btn_container{
