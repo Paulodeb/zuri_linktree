@@ -27,7 +27,7 @@ function App() {
         >
           Twitter Link
         </a>
-        <a id='slack' href='https://slack.com'>paulodeb </a>
+        <a className="slack" href='https://slack.com'>paulodeb </a>
 
         <a id="btn_zuri" href="https://training.zuri.team/">
           Zuri Team
@@ -53,13 +53,13 @@ function App() {
         </a>
       </div>
       <div className="svg-container">
-        <img id="slack" src={slack} alt=" " />
-        <img id="zuri" src={github} alt=" " />
+        <img id="slack" src={slack} alt="pic" />
+        <img id="zuri" src={github} alt="pic" />
       </div>
       <footer className="footer">
-        <img id="slack" src={zuri} alt=" " />
+        <img id="slack" src={zuri} alt="pic" />
         <p id="hng">HNG Internship 9 Frontend Task</p>
-        <img id="slack" src={i4g} alt=" " />
+        <img id="slack" src={i4g} alt="pic" />
       </footer>
       </div>
     </>
