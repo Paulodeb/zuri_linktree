@@ -8,7 +8,7 @@ const [lastname, setLastname] = useState('')
 const [email, setEmail] = useState('')
 const [textarea, setTextarea] = useState('')
 const [checkbox, setCheckbox] = useState(false)
-const [error, setError] = useState({})
+const [error ] = useState({})
 const  canSend = firstname !== '' && lastname !== '' && email !== '' && textarea !== '' && checkbox === true
 error.firstname = firstname === '' ? 'First name is required' : ''
 error.lastname = lastname === '' ? 'Last name is required' : ''
